@@ -14,7 +14,7 @@ class Student2 {//같은 패키지 안에 같은 클래스 있으면 안되는데 Prac4에 이미 Stud
 	int kor;//국어점수
 	int eng;//영어점수
 	int math;//수학점수
-	
+	                                                                                                                                            
 	//인스턴스 메서드
 	//중 생성자
 	Student2(String name, int ban, int no, int kor, int eng, int math) {
